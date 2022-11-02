@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('Demo') {
             steps {
-                sh 'echo "just test" > /tmp/test1.txt' 
+                sh 'echo "just test 1" 
             }
         }
     }
