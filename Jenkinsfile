@@ -4,7 +4,7 @@ pipeline {
         stage('Demo') {
             steps {
                 sh 'echo "just test 4" 
-                sh 'echo "just test 6"
+                sh 'echo "just test 7"
             }
         }
     }
